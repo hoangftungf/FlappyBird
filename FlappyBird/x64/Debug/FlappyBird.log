@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  doge.cpp
+C:\development\FlappyBird\FlappyBird\code\doge.cpp(64,49): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\development\FlappyBird\FlappyBird\code\doge.cpp(87,49): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  FlappyBird.vcxproj -> C:\development\FlappyBird\x64\Debug\FlappyBird.exe
